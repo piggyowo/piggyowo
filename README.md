@@ -1,5 +1,5 @@
 # Claim
-👋 你好，我是小白一枚，来GitHub主要是为了存放一些自用的Quantumult和ShadowRocketd分流规则
+👋 你好，
 
 
 
