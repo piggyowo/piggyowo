@@ -21,7 +21,7 @@ Cloudflare Workers + D1，全免费。网页收藏、搜索、导入导出，
 ## 🌱 现在在折腾
 
 - Cloudflare 免费档的各种玩法：Workers、D1、R2、Tunnel、Pages
-- 把做好的小工具整理成"不用 AI 也能跟着部署"的教程
+- 一些免费、低成本的小项目玩法
 
 ## 📊 GitHub 统计
 
